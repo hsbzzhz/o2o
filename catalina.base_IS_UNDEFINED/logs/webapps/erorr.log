@@ -1,0 +1,6 @@
+2019-08-06 12:17:12.913 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: /home/Hogan/Desktop/image/upload/item/shop/78/2019080612171193575.jpg (No such file or directory)
+2019-08-06 13:32:32.745 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: /home/Hogan/Desktop/image/upload/item/shop/79/2019080613323189900.jpg (No such file or directory)
+2019-08-06 13:40:48.142 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: /home/Hogan/Desktop/image/upload/item/shop/80/2019080613325115435.jpg (No such file or directory)
+2019-08-06 16:19:07.869 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: /home/Hogan/Desktop/image/upload/item/shop/83/2019080616190648565.jpg (No such file or directory)
+2019-08-06 16:27:31.562 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: /home/Hogan/Desktop/image/upload/item/shop/84/2019080616273055100.jpg (No such file or directory)
+2019-08-06 16:33:18.872 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: /home/Hogan/Desktop/image/upload/item/shop/85/2019080616331720891.jpg (No such file or directory)
